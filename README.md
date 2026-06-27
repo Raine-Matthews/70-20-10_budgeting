@@ -11,17 +11,3 @@ Key Features:
 • Business Integration: Tracks and models factual production costs for the "Fatal End" project, including electronics, hardware, and enclosure expenses.
 
 • Financial Insights: Calculates remaining days in the pay cycle and provides a daily "treat" budget to assist with disciplined, real-time financial decision-making.
-
-• Home Cooking: An interactive recipe selector featuring diverse, budget-friendly international recipes.
-
-• Clean Code: Built with a focus on maintainability, modular logic, and clear documentation.
-
-Technologies Used:
-
-• Python: Used for all mathematical processing and business logic.
-
-• Best Practices: Implemented clean coding standards to ensure the project is scalable and easy to audit.
-
-Files:
-
-• Home Cooking.py - Interactive recipe selector with 10+ international recipes
