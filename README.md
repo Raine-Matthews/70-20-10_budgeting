@@ -2,7 +2,7 @@ Personal Finance and Business Automation Tool
 
 Overview:
 
-This project is a Python-based utility designed to automate personal financial management and support the resource planning for my side project, the "Fatal End" guitar pedal product line. The goal of this tool is to provide a systematic, data-driven approach to budgeting and manufacturing cost tracking.
+This project is a Python-based utility designed to automate personal financial management and support the resource planning for my side project, the "Fatal End" guitar pedal product line. The goal is to provide comprehensive financial management tools.
 
 Key Features:
 
@@ -12,6 +12,8 @@ Key Features:
 
 • Financial Insights: Calculates remaining days in the pay cycle and provides a daily "treat" budget to assist with disciplined, real-time financial decision-making.
 
+• Home Cooking: An interactive recipe selector featuring diverse, budget-friendly international recipes.
+
 • Clean Code: Built with a focus on maintainability, modular logic, and clear documentation.
 
 Technologies Used:
@@ -20,3 +22,6 @@ Technologies Used:
 
 • Best Practices: Implemented clean coding standards to ensure the project is scalable and easy to audit.
 
+Files:
+
+• Home Cooking.py - Interactive recipe selector with 10+ international recipes
